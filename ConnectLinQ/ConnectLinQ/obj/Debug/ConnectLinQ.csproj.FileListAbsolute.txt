@@ -1,0 +1,11 @@
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.csprojAssemblyReference.cache
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.Form1.resources
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.Properties.Resources.resources
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.csproj.GenerateResource.cache
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\bin\Debug\ConnectLinQ.exe.config
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\bin\Debug\ConnectLinQ.exe
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\bin\Debug\ConnectLinQ.pdb
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.exe
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.pdb
+D:\LapTrinhC#\ConnectLinQ\ConnectLinQ\obj\Debug\ConnectLinQ.frmchinh.resources
