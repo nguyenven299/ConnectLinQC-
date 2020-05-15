@@ -1,0 +1,10 @@
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.csprojAssemblyReference.cache
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.Form1.resources
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.csproj.GenerateResource.cache
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\bin\Debug\ConnectLinQ.exe.config
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\bin\Debug\ConnectLinQ.exe
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\bin\Debug\ConnectLinQ.pdb
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.Properties.Resources.resources
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.exe
+D:\LapTrinhC#\DoAnTaskCV\TaskCV\ConnectLinQ\obj\Debug\ConnectLinQ.pdb
