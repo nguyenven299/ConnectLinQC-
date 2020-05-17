@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DatabaseTest" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=34.87.155.205;Initial Catalog=DatabaseTest;Persist Security Info=True;User ID=sqlserver" SettingsObjectName="WindowsFormsApp1.Properties.Settings" SettingsPropertyName="DatabaseTestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.users" Member="users">
+    <Type Name="user">
+      <Column Name="idUser" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nameUser" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="emailUser" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>
