@@ -32,9 +32,9 @@
             System.Windows.Forms.Label idUserLabel;
             System.Windows.Forms.Label nameUserLabel;
             System.Windows.Forms.Label emailUserLabel;
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.idUserTextBox = new System.Windows.Forms.TextBox();
@@ -163,7 +163,7 @@
             this.groupBox2.Controls.Add(this.usersDataGridView);
             this.groupBox2.Location = new System.Drawing.Point(458, 47);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(409, 223);
+            this.groupBox2.Size = new System.Drawing.Size(378, 219);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "User List";
@@ -177,7 +177,7 @@
             this.dataGridViewTextBoxColumn2,
             this.dataGridViewTextBoxColumn3});
             this.usersDataGridView.DataSource = this.usersBindingSource;
-            this.usersDataGridView.Location = new System.Drawing.Point(16, 33);
+            this.usersDataGridView.Location = new System.Drawing.Point(20, 30);
             this.usersDataGridView.Name = "usersDataGridView";
             this.usersDataGridView.Size = new System.Drawing.Size(345, 166);
             this.usersDataGridView.TabIndex = 0;
@@ -186,8 +186,8 @@
             // dataGridViewTextBoxColumn1
             // 
             this.dataGridViewTextBoxColumn1.DataPropertyName = "idUser";
-            dataGridViewCellStyle19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.dataGridViewTextBoxColumn1.DefaultCellStyle = dataGridViewCellStyle19;
+            dataGridViewCellStyle22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.dataGridViewTextBoxColumn1.DefaultCellStyle = dataGridViewCellStyle22;
             this.dataGridViewTextBoxColumn1.HeaderText = "Mã Số";
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             this.dataGridViewTextBoxColumn1.ReadOnly = true;
@@ -195,16 +195,16 @@
             // dataGridViewTextBoxColumn2
             // 
             this.dataGridViewTextBoxColumn2.DataPropertyName = "nameUser";
-            dataGridViewCellStyle20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.dataGridViewTextBoxColumn2.DefaultCellStyle = dataGridViewCellStyle20;
+            dataGridViewCellStyle23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.dataGridViewTextBoxColumn2.DefaultCellStyle = dataGridViewCellStyle23;
             this.dataGridViewTextBoxColumn2.HeaderText = "Tên Người Dùng";
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             // 
             // dataGridViewTextBoxColumn3
             // 
             this.dataGridViewTextBoxColumn3.DataPropertyName = "emailUser";
-            dataGridViewCellStyle21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.dataGridViewTextBoxColumn3.DefaultCellStyle = dataGridViewCellStyle21;
+            dataGridViewCellStyle24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.dataGridViewTextBoxColumn3.DefaultCellStyle = dataGridViewCellStyle24;
             this.dataGridViewTextBoxColumn3.HeaderText = "Email Người Dùng";
             this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
             // 
@@ -247,7 +247,7 @@
             this.usersBindingNavigator.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.usersBindingNavigator.Name = "usersBindingNavigator";
             this.usersBindingNavigator.PositionItem = this.bindingNavigatorPositionItem;
-            this.usersBindingNavigator.Size = new System.Drawing.Size(915, 25);
+            this.usersBindingNavigator.Size = new System.Drawing.Size(879, 25);
             this.usersBindingNavigator.TabIndex = 2;
             this.usersBindingNavigator.Text = "bindingNavigator1";
             // 
@@ -416,7 +416,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(915, 499);
+            this.ClientSize = new System.Drawing.Size(879, 304);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnCancle);
             this.Controls.Add(this.btnSave);
